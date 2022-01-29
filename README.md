@@ -1,5 +1,4 @@
-<h3 align="center">Hi 👋</h3>
-<h3 align="center">I'm Minseon Kim !</h3>
+<h3 align="center">Hi 👋 I'm Minseon Kim 👩🏻</h3>
 
 <br>
 
@@ -10,10 +9,9 @@
 <h3 align="center">😉About Me</h3>
 
 <p align="center">
-✔️해야할 일을 마치고 느끼는 뿌듯함을 좋아합니다<br>
-✔️기술과 새로운 지식에 대한 호기심이 많아 배우는 것을 즐깁니다<br>
-✔️정한 목표를 반드시 달성하며 스트레스 관리 능력이 좋은 편입니다<br>
-✔️팀원들과 좋은 관계를 유지하며, 문제를 해결하는 중재자 역할을 해왔습니다
+✔️I like the feeling of pride that I feel after finishing what I have to do !<br>
+✔️I'm curious about technology and new knowledge, so I enjoy learning !<br>
+✔️I always achieve my goals and have good stress management skills !
 </p>
 
 <br>
