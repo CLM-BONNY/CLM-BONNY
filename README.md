@@ -64,30 +64,14 @@
   </td>
 </tr>
 </table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
-<br>
                   
-<p align="center">
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=clm-bonny&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-</p>
-
-<br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <br>
 
 <p align="center">
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=clm-bonny&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
+[![CLM-BONNY's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CLM-BONNY&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  </p>
 
 <br>
 
