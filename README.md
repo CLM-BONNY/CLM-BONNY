@@ -59,17 +59,9 @@
   </td>
 </tr>
 </table>
+
+<br>
                   
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
-<br>
-
-<p align="center">
- 
-[![CLM-BONNY's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=CLM-BONNY&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  </p>
-
-<br>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 <br>
