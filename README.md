@@ -6,20 +6,6 @@
 
 <br>
 
-<h3 align="center">😉About Me</h3>
-
-<p align="center">
-✔️I like the feeling of pride that I feel after finishing what I have to do !<br>
-✔️I'm curious about technology and new knowledge, so I enjoy learning !<br>
-✔️I always achieve my goals and have good stress management skills !
-</p>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-
-<br>
-
 <h3 align="center">💻 Stack</h3>
 
 <br>
