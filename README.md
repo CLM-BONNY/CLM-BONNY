@@ -26,10 +26,10 @@
 |2024.05 ~ 2024.07|'<a href="https://github.com/LittleTravel/culture-data-contest">지역별 아이 동반 여행객 증가를 위한 맞춤형 전략 제안 프로젝트</a>' 데이터분석 & 팀장|
 |2024.01 ~ 2024.06|AI 기반 장년층 라이프 케어 서비스 '<a href="https://github.com/kookmin-sw/capstone-2024-25">올봄</a>' AI 챗봇 개발 & 데이터 수집 및 전처리|
 |2023.10 ~ 2024.02|WINK, FOSCAR 동아리 부원들을 위한 동아리방 자리 예약 서비스 '<a href="https://github.com/2023-2-WINK-project-team4/605-1-frontend">605-1</a>' Frontend 개발 & 팀장|
-|2023.08|우리동네 치안 복지 서비스'<a href="https://github.com/CLM-BONNY/ecothon-2023">Relieved</a>' Frontend 개발|
+|2023.08|우리동네 치안 복지 서비스 '<a href="https://github.com/CLM-BONNY/ecothon-2023">Relieved</a>' Frontend 개발|
 |2023.04 ~ 2023.06|'<a href="https://github.com/CLM-BONNY/ecothon-2023">플라스틱 폐기물 배출량 시계열 분석을 통한 지역별 플라스틱 방앗간 추가 설치 개수 선청 프로젝트</a>' 데이터 분석|
 |2023.04 ~ 2023.05|지역 사회 대학생 어플리케이션 프로젝트 '<a href="https://github.com/CLM-BONNY/unicove-frontend">Unicove</a>' Frontend 개발|
-|2023.01 ~ 2023.04|노인 복지센터 프로그램 연결을 통한 노인 엔터테이닝 프로젝트'<a href="https://github.com/SolutionChallenge-SilverTime/2023-SilverTime-Frontend">Silver Time</a>' Frontend 개발|
+|2023.01 ~ 2023.04|노인 복지센터 프로그램 연결을 통한 노인 엔터테이닝 프로젝트 '<a href="https://github.com/SolutionChallenge-SilverTime/2023-SilverTime-Frontend">Silver Time</a>' Frontend 개발|
 |2022.12 ~ 2023.01|'<a href="https://github.com/CLM-BONNY/tave-data-project">제주도 날씨 데이터를 활용한 관광객 수 예측 프로젝트</a>' 데이터 분석|
 |2022.11 ~ 2022.12|'<a href="https://github.com/CLM-BONNY/tave-data-project">압구정 길거리 쓰레기통 설치 구역 제안 프로젝트</a>' 데이터 분석|
 |2022.09 ~ 2022.12|반려동물과의 추억을 기록할 수 있는 반려동물 전용 SNS '<a href="https://github.com/CLM-BONNY/pet-diary">반려일지</a>' Frontend 개발|
