@@ -23,7 +23,7 @@
 
 |기간|내용|
 |---|---|
-|2024.05 ~ 2024.07|'<a href="https://github.com/LittleTravel/culture-data-contest">지역별 아이 동반 여행객 증가를 위한 맞춤형 전략 제안 프로젝트</a>' 데이터분석 & 팀장|
+|2024.05 ~ 2024.07|'<a href="https://github.com/LittleTravel/culture-data-contest">지역별 아이 동반 여행객 증가를 위한 맞춤형 전략 제안 프로젝트</a>' 데이터 분석 & 팀장|
 |2024.01 ~ 2024.06|AI 기반 장년층 라이프 케어 서비스 '<a href="https://github.com/kookmin-sw/capstone-2024-25">올봄</a>' AI 챗봇 개발 & 데이터 수집 및 전처리|
 |2023.10 ~ 2024.02|WINK, FOSCAR 동아리 부원들을 위한 동아리방 자리 예약 서비스 '<a href="https://github.com/2023-2-WINK-project-team4/605-1-frontend">605-1</a>' Frontend 개발 & 팀장|
 |2023.08|우리동네 치안 복지 서비스 '<a href="https://github.com/CLM-BONNY/ecothon-2023">Relieved</a>' Frontend 개발|
@@ -84,12 +84,14 @@
 
 <hr/>
 
-<h3 align="center">😄 Contact</h3>
+<h3 align="center">📞 Contact</h3>
 <p align="center">
   <a href="mailto:alstjs4739@gmail.com">
     <img align="center" alt="Minseon Kim | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://instagram.com/dev_mild" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="clm_bonny" height="30" width="40" /></a>
+  <a href="https://instagram.com/dev_mild" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+  </a>
 
 </p>
 
@@ -104,9 +106,7 @@
 
 <br/>
 
-<div style="display: flex; justify-content: center;">
+<div style="display: flex; justify-content: space-between" align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=clm-bonny&show_icons=true&theme=dark#gh-dark-mode-only&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clm-bonny&layout=compact&theme=dark&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clm-bonny&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook"/>
 </div>
-
-
