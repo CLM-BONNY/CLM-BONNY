@@ -7,7 +7,7 @@
 |---|---|---|
 |국민대학교|2020.03~|국민대학교 소프트웨어학부 재학|
 |BDA|2025.02~|대학생 연합 빅데이터 학회 10기 학회원|
-|네이버 부스트캠프 AI Tech 7기|2024.08~|네이버 부스트캠프 AI Tech 7기 부스트캠퍼|
+|네이버 부스트캠프 AI Tech 7기|2024.08~2025.02|네이버 부스트캠프 AI Tech 7기 부스트캠퍼|
 |네이버 부스트클래스 2기|2024.04~2024.06|네이버 부스트클래스 2기 훈련생|
 |알파코|2024.01~|알파코 새싹 멘토단|
 |WINK|2023.03~2024.03|웹 학술 동아리 WINK 지원부 차장|
@@ -24,7 +24,7 @@
 
 |기간|내용|담당|
 |---|---|---|
-|2025.01~2025.02|느린학습자를 위한 AI 기반 어휘력/문해력 학습 서비스'<a href="https://github.com/boostcampaitech7/level4-nlp-finalproject-hackathon-nlp-04-lv3">아라부기</a>'|데이터 전처리, 모델링, 백엔드, PM, 팀장|
+|2025.01~2025.02|느린학습자를 위한 AI 기반 어휘력/문해력 학습 서비스 '<a href="https://github.com/boostcampaitech7/level4-nlp-finalproject-hackathon-nlp-04-lv3">아라부기</a>'|데이터 전처리, 모델링, 백엔드, PM, 팀장|
 |2024.11~2024.11|'<a href="https://github.com/boostcampaitech7/level2-nlp-generationfornlp-nlp-04-lv3">수능형 문제 풀이 모델 생성 프로젝트</a>'|데이터 분석, 데이터 증강, 모델링, PM|
 |2024.11~2024.11|'<a href="https://github.com/boostcampaitech7/level2-nlp-datacentric-nlp-11">Topic Classification - Data Centric 프로젝트</a>'|데이터 분석, 데이터 증강, 모델링, PM|
 |2024.09~2024.10|'<a href="https://github.com/boostcampaitech7/level2-mrc-nlp-11">Open Domain Question Answering 프로젝트</a>'|데이터 분석, 데이터 증강, 모델링, PM|
@@ -44,7 +44,7 @@
 
 |수상 연월|내용|
 |---|---|
-|2025.02|부스트캠프 AI Tech 7기 최종 프로젝트 - 네이버 클라우드 기업 해커톤 1위|
+|2025.02|부스트캠프 AI Tech 7기 네이버 클라우드 기업 해커톤 1위|
 |2024.05|국민대학교 소프트웨어융합대학 다학제간 캡스톤디자인 최종발표회 장려상|
 |2023.01|TAVE 10기 후반기 컨퍼런스 최우수상|
 
