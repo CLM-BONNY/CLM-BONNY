@@ -5,14 +5,14 @@
   
 |소속 및 단체|활동 기간|내용|
 |---|---|---|
-|국민대학교|2020.03~|국민대학교 소프트웨어학부 재학|
+|슈크림마을|2026.01~|슈크림마을 개발했슈 부제빵사|
 |네이버 커넥트재단 부스트코스|2025.08~|부스트코스 생성형 AI 강의 코치|
 |SK AI Dream Camp|2025.07~2025.08|SK 계열사 데이터 분석 및 인공지능 학습 과정 참여|
 |OSSCA|2025.04~2025.05|Onthology-based RAG 멘티|
 |BDA|2025.02~2025.08|대학생 연합 빅데이터 학회 10기 학회원|
 |네이버 커넥트재단 부스트캠프 AI Tech 7기|2024.08~2025.02|네이버 부스트캠프 AI Tech 7기 부스트캠퍼|
 |네이버 커넥트재단 부스트클래스 2기|2024.04~2024.06|네이버 부스트클래스 2기 훈련생|
-|알파코|2024.01~|알파코 새싹 멘토단|
+|알파코|2024.01~2025.07|알파코 새싹 멘토단|
 |WINK|2023.03~2024.03|웹 학술 동아리 WINK 지원부 차장|
 |WINK|2022.09~2023.02|웹 학술 동아리 WINK 부원|
 |TAVE|2022.08~2023.01|4차 산업혁명 연합 동아리 TAVE 10기 데이터 분석 분야 부원|
@@ -124,10 +124,3 @@
   </a>
 
 </p>
-
-<br/>
-
-<div style="display: flex; justify-content: space-between" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=clm-bonny&show_icons=true&theme=dark#gh-dark-mode-only&hide_border=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clm-bonny&layout=compact&theme=dark&hide_border=true&hide=jupyter%20notebook"/>
-</div>
